@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vvay to a blessed estate in this life. By Ezekel Culuervvel.</title>
+            <author>Culverwell, Ezekiel, 1553 or 4-1631.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1623</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19697</idno>
+            <idno type="STC">STC 6118.4</idno>
+            <idno type="STC">ESTC S109140</idno>
+            <idno type="EEBO-CITATION">99844790</idno>
+            <idno type="PROQUEST">99844790</idno>
+            <idno type="VID">25284</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19697)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 25284)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1544:2b, 1749:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vvay to a blessed estate in this life. By Ezekel Culuervvel.</title>
+                  <author>Culverwell, Ezekiel, 1553 or 4-1631.</author>
+               </titleStmt>
+               <extent>[4], 17, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Dawson, for William Sheffard, and are to be sold at his shop, at the entring in of Popes-head Alley out of Lumbard-streete,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1623.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first leaf is blank except for a fleuron and rules.</note>
+                  <note>Usually bound with author's "A treatise of faith," third edition, 1623 (STC 6115).</note>
+                  <note>In this edition, A3r has a headpiece of type ornaments.</note>
+                  <note>Reproductions of the original in the British Library.</note>
+                  <note>Appears as part of STC 6115 on reel 1544 (British Library copy) and by itself at reel 1749 (same copy filmed again).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:25284:1" rendition="simple:additions"/>
+            <p>THE VVAY TO A BLESSED ESTATE IN THIS LIFE.</p>
+            <p>BY <hi>EZEKEL CVLVERVVELL.</hi>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>Iohn Dawſon,</hi> for <hi>William Sheffard,</hi> and are to be ſold at his Shop, at the entring in of <hi>Popes</hi>-head Alley out of <hi>Lum<g ref="char:EOLhyphen"/>bard</hi>-ſtreete. 1623.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:25284:2"/>
+            <pb n="1" facs="tcp:25284:2" rendition="simple:additions"/>
+            <head>THE VVAY TO A BLESSED ESTATE IN THIS LIFE.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HAT which our Lord Ieſus from Heaven writ vn<g ref="char:EOLhyphen"/>to the Church of <hi>Sardis;</hi>
+               <note place="margin">Rev. 3.1.</note> 
+               <hi>Thou haſt a name that thou liueſt, but art dead,</hi> may be truly ſpoken of the greater ſort of not-counterfeit Profeſſors of the Faith in our time: for it is cleare by the Text, that this is not ſpoken of hypo<g ref="char:EOLhyphen"/>crites, who are ſtarke dead, but
+<pb n="2" facs="tcp:25284:3"/>of ſuch who having ſome life remaining in them, are in a dead ſleepe:<note place="margin">Many drow<g ref="char:EOLunhyphen"/>ſie profeſ<g ref="char:EOLhyphen"/>ſors.</note> for theſe of whom I ſpeake, take good paines to keepe vp a name of Chriſtiani<g ref="char:EOLhyphen"/>tie, both in the exerciſes of Reli<g ref="char:EOLhyphen"/>gion, and in their outward be<g ref="char:EOLhyphen"/>hauiour, (though in both there be much ſayling) but in very truth there is but a little life of faith and loue in all their Pro<g ref="char:EOLhyphen"/>feſſion, as may appeare in their cold and vncomfortable pray<g ref="char:EOLhyphen"/>ers, in their wandering and drowſie hearing of the Word, and vnfruitfull receiving of the Sacraments, and much more in their abuſe and neglect of the ſecret exerciſes of Prayer, rea<g ref="char:EOLhyphen"/>ding, and meditation by them<g ref="char:EOLhyphen"/>ſelues, and conference with o<g ref="char:EOLhyphen"/>thers, ſeldome deepely beway<g ref="char:EOLhyphen"/>ling their eſtate, leſſe reioycing in the aſſurance of their ſalvati<g ref="char:EOLhyphen"/>on by Chriſt, as ſeldome deligh<g ref="char:EOLhyphen"/>ting in God, with a zeale to ſet forth his glory in every part of
+<pb n="3" facs="tcp:25284:3"/>their life.</p>
+            <p>Though this be the ſtate of the greater part of thoſe that haue ſome truth of grace in them, yet may we ſay againe,<note place="margin">A few worthy.</note> that there are with vs, (as in the Church of <hi>Sardus</hi>) <hi>a few names that haue not defiled their gar<g ref="char:EOLhyphen"/>ments,</hi> that is, doe liue vnrebu<g ref="char:EOLhyphen"/>kably, and walke worthy their holy calling, having a ſweet fee<g ref="char:EOLhyphen"/>ling of Gods favour vnto them, and ſo can boldly come vnto him in time of need, with aſſu<g ref="char:EOLhyphen"/>rance that he doth graciouſly re<g ref="char:EOLhyphen"/>ſpect them, their prayers, and vnfeigned obedience; who like<g ref="char:EOLhyphen"/>wiſe doe more delight them<g ref="char:EOLhyphen"/>ſelues in God, then in all earth<g ref="char:EOLhyphen"/>ly things, accounting it their greateſt griefe to offend him, and greateſt ioy to pleaſe him; poſſeſſing their ſoules with con<g ref="char:EOLhyphen"/>fidence and patience in their greateſt trialls, looking for the appearing of Chriſt.</p>
+            <p>This is that bleſſed eſtate to be
+<pb n="4" facs="tcp:25284:4"/>inioyned in this life,<note place="margin">What a bleſſed life here may be attained.</note> which God hath prepared, (though in di<g ref="char:EOLhyphen"/>vers meaſures) for the faithfull, all which may well bee contai<g ref="char:EOLhyphen"/>ned in this ſhort ſentence of the <hi>Pſalmiſt.</hi> Pſal. 37.4. <hi>Delight thy ſelfe in the Lord, and he will giue thee thy hearts deſire:</hi> which I doubt not but all true Chriſti<g ref="char:EOLhyphen"/>ans (when they haue well conſi<g ref="char:EOLhyphen"/>dered it) would be glad to at<g ref="char:EOLhyphen"/>taine vnto:<note place="margin">Deſired by many, not attained.</note> But either through ignorance of the way how to at<g ref="char:EOLhyphen"/>taine it; or through negligence; not putting in practiſe what they know: they ſpend many yeares, either ſecurely, or vn<g ref="char:EOLhyphen"/>comfortably, ſeldome attaining to that heauenly feaſting, which (if they were wiſe) might be their daily refreſhing:<note place="margin">How this life is at<g ref="char:EOLhyphen"/>tained.</note> whoſe e<g ref="char:EOLhyphen"/>ſtate I much tendring, doe en<g ref="char:EOLhyphen"/>devour to ſhew them, how this happie life may be attained; which I conceiue to be onely by a more plentifull feeding vpon Chriſt by faith. It is without
+<pb n="5" facs="tcp:25284:4"/>queſtion, that all and every part of our ſpirituall life is in Chriſt, <hi>of whoſe fulneſſe we receiue grace for grace:</hi> and this is as cleare,<note place="margin">Ioh. 1.26.</note> that we receiue no grace firſt or laſt from Chriſt, but by belee<g ref="char:EOLhyphen"/>ving: in which reſpect Chriſt is truly and principally ſaid to be our ſpirituall food,<note place="margin">Ioh. 6.27.35.</note> and belee<g ref="char:EOLhyphen"/>ving to be the true feeding vp<g ref="char:EOLhyphen"/>on him. Which being ſo,<note place="margin">34.</note> it ne<g ref="char:EOLhyphen"/>ceſſarily followes, that feeding ſeldome or weakely, we cannot haue much ſpirituall ſtrength: and otherwiſe feeding plentiful<g ref="char:EOLhyphen"/>ly and ſoundly, we ſhall be fat, and flouriſhing in grace, and ſo attaine vnto the bleſſed life ſpo<g ref="char:EOLhyphen"/>ken of.</p>
+            <p>
+               <note place="margin">How to feed oft in the day on Chriſt.</note>For the better vnderſtanding and practiſing whereof, this is ſpecially to be conſidered, How every true beleever may daily, yea, oft in the day, by faith feed vpon Chriſt, that ſo he may re<g ref="char:EOLhyphen"/>ceiue from him all ſpirituall nouriſhment, for his refreſhing
+<pb n="6" facs="tcp:25284:5"/>and ſtrengthening to every good worke.</p>
+            <p>This is done by ſetting before vs thoſe ſweet promiſes, which God hath made to vs, for the ſtrengthening of our faith in all our neceſſities: and, ſo particu<g ref="char:EOLhyphen"/>larly to apply them to our ſelues. Whereby we may com<g ref="char:EOLhyphen"/>fortably aſſure our ſelues, that we ſhall enioy that which God hath promiſed. Wherein we are firſt to get the true meaning of that which is promiſed.</p>
+            <p>Secondly, To ſee we haue a good warrant, that this is pro<g ref="char:EOLhyphen"/>miſed to vs, that therevpon we may conclude, we ſhall certainly enioy that which God hath pro<g ref="char:EOLhyphen"/>miſed, ſeeing he is faithfull who hath promiſed.</p>
+            <p>But ſeeing this is not well conceived by many,<note place="margin">Example.</note> I will make it plaine by example, 1 <hi>Cor.</hi> 1.30 it is ſaid; <hi>But of him are yee in Chriſt Ieſus, who of God is made vnto vs wiſedome, and righteouſ<g ref="char:EOLhyphen"/>neſſe,
+<pb n="7" facs="tcp:25284:5"/>and ſanctification, and re<g ref="char:EOLhyphen"/>demption.</hi> In which is as much ſayd as may be conceived, or de<g ref="char:EOLhyphen"/>ſired; the meaning whereof is, that every true beleever, is by Gods ſpirit made a living mem<g ref="char:EOLhyphen"/>ber of Chriſt Ieſus, from and in whom, he is made by God a true partaker of all things need<g ref="char:EOLhyphen"/>full to ſalvation: that whereas he is by nature fooliſh, guiltie, fil<g ref="char:EOLhyphen"/>thy, and in bondage, now in Chriſt he is made perfectly wiſe righteous, holy, freed from all his enemies, and ſo reſtored to full happineſſe. This promiſe of God being clearely vnder<g ref="char:EOLhyphen"/>ſtood, muſt now be applyed particularly by every beleever to himſelfe, thus: Seeing God who is all-ſufficient; and faith<g ref="char:EOLhyphen"/>full, that in his Word, which is Truth it ſelfe, promiſed theſe great benefits (in which all are contained) to every true belee<g ref="char:EOLhyphen"/>ver, therefore I who doe truly, though weakely, beleeue in
+<pb n="8" facs="tcp:25284:6"/>Chriſt, may boldly aſſure my ſelfe, that all theſe be mine, and therefore I ſhall not want any thing needfull for my preſent comfort, or eternall happineſſe. Which whoſoever doth daily practiſe in this manner to main<g ref="char:EOLhyphen"/>taine, and increaſe his faith by application of this, and all other of Gods promiſes, he ſhall daily more and more enioy in this life that bleſſed eſtate wee ſpeake of.</p>
+            <p>
+               <note place="margin">Pray for faith.</note>But for as much as faith is the gift of God, and we cannot further beleeue then wee be drawne by Gods ſpirit, there<g ref="char:EOLhyphen"/>fore wee muſt ioyne often and fervent prayer, that God by this meanes would increaſe our faith.</p>
+            <p>This may ſeeme eaſie to be performed,<note place="margin">Not eaſie.</note> but vpon better triall, it will not be found ſo ea<g ref="char:EOLhyphen"/>ſie to doe it effectually; for be<g ref="char:EOLhyphen"/>ſides our owne great vntoward<g ref="char:EOLhyphen"/>neſſe to beleeve, I cannot thinke
+<pb n="9" facs="tcp:25284:6"/>of any dutie, wherein our com<g ref="char:EOLhyphen"/>mon Adverſary, will vſe more cunning, and diligence to hin<g ref="char:EOLhyphen"/>der vs, then in this: either by keeping vs from rhe worke, or beguiling vs in it: whereby it comes to paſſe, that very few doe (to any good purpoſe) practiſe the ſame.</p>
+            <p>
+               <note place="margin">Two chiefe letts.</note>Amongſt many lettes which hinder the faithfull practiſe hereof, I obſerue theſe two, in two divers ſorts of beleevers. The former in thoſe,<note place="margin">1. Not pri<g ref="char:EOLhyphen"/>zing Chriſt.</note> in two divers ſorts of beleevers. The former in thoſe, who not ſufficiently feeling their wants, and too much contented with their eſtate, doe not ſo prize Chriſt, and this bleſſed eſtate in him, as may moue them to take this paines, and therefore neuer reach vnto this growth in grace wherevnto they might come, if the fault were not in them ſelues. The other let is in thoſe who highly prizing the benefit,<note place="margin">2. Our vn<g ref="char:EOLhyphen"/>worthines.</note> and earneſtly labouring for it, are by the ſenſe of their owne
+<pb n="10" facs="tcp:25284:7"/>vnworthineſſe, ſo kept downe' that they cannot with any hope looke vp, for ſo great a bleſ<g ref="char:EOLhyphen"/>ſing.</p>
+            <p>
+               <note place="margin">Remoue of the firſt let.</note>For the remooving of both theſe lettes, the firſt ſort are to bethinke themſelues, what an vncomfortable account it will be, when God ſhall call them to it, to ſee how many yeares they haue ſpent, with little growth in grace, either to the glory of God, or good example to o<g ref="char:EOLhyphen"/>thers, or to the peace of their owne ſoules. Whereas on the other ſide, they might haue at<g ref="char:EOLhyphen"/>tained vnto ſuch a ſweet life, as would haue beene a heauen vp<g ref="char:EOLhyphen"/>on earth; namely, <hi>To reioyce al<g ref="char:EOLhyphen"/>wayes in the Lord.</hi>
+            </p>
+            <p>
+               <note place="margin">Of the ſe<g ref="char:EOLhyphen"/>cond let.</note>For the other poore ſoules, who are kept downe with the ſenſe of their owne vnworthi<g ref="char:EOLhyphen"/>neſſe, they are to know, that all Gods promiſes, are free and vn<g ref="char:EOLhyphen"/>deſerved, ſo as no vnworthines ought to hinder them from be<g ref="char:EOLhyphen"/>leeving:
+<pb n="11" facs="tcp:25284:7"/>yea, rather they that haue the moſt ſenſe of their owne vnworthineſſe, haue moſt incouragement to beleeve, for that voice of Chriſt,<note place="margin">Mat. 11.28.</note> 
+               <hi>Come vnto me all you that are weary and hea<g ref="char:EOLhyphen"/>vie laden, and I will eaſe you:</hi> ſerue not onely for our firſt converſion, but in all our di<g ref="char:EOLhyphen"/>ſtreſſes whatſoever, throughout the whole courſe of our life.</p>
+            <p>
+               <note place="margin">Satan will beguile;</note>If any eſcape both theſe lets, and goe about this worke, then will Satan vſe all his skill to be<g ref="char:EOLhyphen"/>guile both ſorts: ſuch as are weake and heauie hearted,<note place="margin">Some that they be<g ref="char:EOLhyphen"/>leeue not;</note> ſoone diſcouraged, he tempts and perſwades, they labour in vaine, and doe not beleeue, when indeed they doe, as ſhall appeare.<note place="margin">Others, that they haue more faith then they haue.</note> The other ſort who are too well conceited, and light hearted, Satan labours to per<g ref="char:EOLhyphen"/>ſwade, that they haue more faith then indeed they haue, and that their caſe is better then in truth it is.</p>
+            <p>
+               <pb n="12" facs="tcp:25284:8"/>
+It ſhall be therefore the wiſe<g ref="char:EOLhyphen"/>dome of all who will not be de<g ref="char:EOLhyphen"/>ceived, carefully to examine and try themſelues; which that they may the better doe, let them conſider of theſe markes that follow: whereby either ſort may certainely iudge of them<g ref="char:EOLhyphen"/>ſelues.</p>
+            <p>
+               <note place="margin">Foure markes of faith not ſeene.</note>For ſuch as conſcionably en<g ref="char:EOLhyphen"/>devour to nouriſh their faith in ſuch manner as hath beene ſhewed, and yet finde no com<g ref="char:EOLhyphen"/>fort, but feare they doe not be<g ref="char:EOLhyphen"/>leeue, (when as indeed they doe) theſe are to diſcerne their faith by ſuch ſecret operations, as doe certainely ſhew faith to be there, though it be not ſeene: namely, An vnfeigned griefe for the want of faith,<note place="margin">1. Griefe for want of faith.</note> with an vnceſſant indevour for the at<g ref="char:EOLhyphen"/>taining of it. Againe, A reve<g ref="char:EOLhyphen"/>rent eſteeme of God, and hearty affection of vnfeigned loue to him, which cannot be without ſome former apprehenſion of
+<pb n="13" facs="tcp:25284:8"/>Gods loue to them, which is in many, (though they ſee it not). And laſtly, A tender Conſci<g ref="char:EOLhyphen"/>ence,<note place="margin">4. A tender conſcience.</note> fearing to diſpleaſe God, even in ſmaller matters, which others little regard. Whoſoever ſhall find theſe fruits, (which cannot come but from faith) may certainly know, that there is a roote of faith grounded in their hearts, though they ſee it not.<note place="margin">No fruits: no faith.</note> But ſuch as haue no feeling of their faith, and ſee no ſuch effects in their liues, haue iuſt cauſe to thinke that they haue no faith at all.</p>
+            <p>
+               <note place="margin">Notes of true and falſe com<g ref="char:EOLhyphen"/>fort.</note>As for the other ſort, who are too well perſwaded of them<g ref="char:EOLhyphen"/>ſelues, that they finde comfort in meditating on Gods promi<g ref="char:EOLhyphen"/>ſes, whereas indeed they deceiue themſelues, and haue not that faith they imagine, as their fruits doe ſhew.</p>
+            <p>This may be diſcerned by theſe notes;</p>
+            <p>
+               <note place="margin">1. True, is hardly got.</note>Firſt, True comfort is vſual<g ref="char:EOLhyphen"/>ly
+<pb n="14" facs="tcp:25284:9"/>very heardly gotten, with much prayer and labour, and it is oft a long time before this be felt: therefore they who vpon their firſt thoughts on theſe promiſes, finde comfort that they haue part in them, may ſo farre miſtruſt, all is not ſound, till they ſhall ſee ſome better proofe thereof: which if they doe not, but for all this will be confident, that all is well, it is to be feared, their comfort is not ſound.</p>
+            <p>
+               <note place="margin">2. Feare of deceit.</note>For this is another propertie of that true comfort which ſprings from faith, eſpecially in young and weake beleevers, that they (ſo highly valewing the benefit) are very fearefull of being deceived, and muſt ſee good evidence, before they will be perſwaded, that they haue this ſaving faith.</p>
+            <p>
+               <note place="margin">3. Poore in ſpirit, mourne, and lowly.</note>Whereof if they ſhall be per<g ref="char:EOLhyphen"/>ſwaded, yet therwithall is ioyned ſuch a feeling of the weakeneſſe
+<pb n="15" facs="tcp:25284:9"/>of their faith, and ſo of all grace, as makes them poore in their owne eyes, and mourne for their wants, thinking lowly of them<g ref="char:EOLhyphen"/>ſelues, and more highly reue<g ref="char:EOLhyphen"/>rencing the graces of God in o<g ref="char:EOLhyphen"/>thers. Whereas they who be de<g ref="char:EOLhyphen"/>ceived, are as the <hi>Laodiceans;</hi> rich and wanting nothing, and ſo be merry, and too light hear<g ref="char:EOLhyphen"/>ted, thinking too well of them<g ref="char:EOLhyphen"/>ſelues, and too ſlenderly of o<g ref="char:EOLhyphen"/>thers, better then themſelues.</p>
+            <p>
+               <note place="margin">4 Hunger and labour for more.</note>Another ſure marke of ſenſi<g ref="char:EOLhyphen"/>ble faith and comfort, is this; That they that haue taſted of it, can never be ſatisfied, but ſtill hunger and labour for more: none more diligently vſe all good meanes to grow in grace then they: Even as the ſtrong and moſt healthfull bodie, doth feed better then the weake and ſickly. But ſuch as being well ſatisfied with that they haue, and feele no hunger, nor labour for more, it is evident their faith
+<pb n="16" facs="tcp:25284:10"/>and comfort are not good.</p>
+            <p>
+               <note place="margin">5. Anſwera<g ref="char:EOLhyphen"/>ble obedi<g ref="char:EOLhyphen"/>ence.</note>To proceed, and not to gather all that might be added hereto, this ſhall ſerue for all; That as like fire, like heate: ſo like faith, like life, great or ſmall. So that where there is ſtrong faith, there muſt needs be great obedience, and therefore whoſoever hee be that is careleſſe of his converſa<g ref="char:EOLhyphen"/>tion, and barren in the fruits of a holy life, his faith muſt needs be weake, if not dead.</p>
+            <p>Wherefore to conclude, I ad<g ref="char:EOLhyphen"/>viſe every one, who by theſe markes ſhall diſcerne himſelfe to be deceived, with fancie in ſtead of faith; to goe about this worke more ſeriouſly, and to lay a better foundation of faith, and not to ſay, he hath found com<g ref="char:EOLhyphen"/>fort, till he can bring good wit<g ref="char:EOLhyphen"/>neſſe thereof. Which whoſoe<g ref="char:EOLhyphen"/>ver ſhall neglect, ſhall in the end (to ſay no more) lament his fol<g ref="char:EOLhyphen"/>ly, when he who ſeeing his er<g ref="char:EOLhyphen"/>rour, ſhall more carefully and
+<pb n="17" facs="tcp:25284:10"/>conſtantly put in practiſe this maine dutie of daily feeding vp<g ref="char:EOLhyphen"/>on <hi>Chriſt,</hi> ſhall grow in grace, and attaine to that bleſſed life here, whereof we ſpeake beſides eternall life: the full reward of all his labour.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:25284:11"/>
+            <pb facs="tcp:25284:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
